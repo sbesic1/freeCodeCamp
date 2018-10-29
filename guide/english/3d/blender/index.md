@@ -1,5 +1,5 @@
 ---
-title: Blender
+title: BLENDER
 ---
 ## Blender
 
